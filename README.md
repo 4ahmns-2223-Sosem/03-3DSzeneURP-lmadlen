@@ -55,6 +55,11 @@ Das Wasser (Die Dusche) und der Countdown waren auch eine Herausfordernung.
 
 ## Lessons Learned 
 
+Die größte Sache die ich gelernt habe ist vermutlich, wie wichtig ein funktionierendes Arbeitssystem ist. Und genügend Speicherplatz. Aber abgesehen davon habe ich den 3D Sound in Unity und InvokeRepeat kennengelernt. 
+
+Wie vorher schon beschrieben habe ich auch gelernt, das Third Party Assets zwar Arbeit abnehmen können (Beispiel: Standard Assets POV Controler) aber auch zu Problemen führen (Beispiel: House Model)
+
+
 ## Syntaxelemtnte
 
 + Array
@@ -112,3 +117,4 @@ Sound Effect from <a href="https://pixabay.com/?utm_source=link-attribution&utm_
 
 HDRI - https://polyhaven.com/a/sunset_jhbcentral
 
+POV Controler - https://assetstore.unity.com/packages/essentials/starter-assets-first-person-character-controller-urp-196525
